@@ -1,6 +1,7 @@
 In this repository you can find a BLOG App that is build in MERN Stack.
 
 LINK Of web app Deployed:
+https://blog-app-ubt.herokuapp.com/
 
 MERN stands for:
 MongoDB - document database
